@@ -65,6 +65,9 @@ Users can select an answer for each question and submit the quiz.
 ### 6. Score Calculation
 
 The application compares the selected answers with the correct answers and displays the final score.
+<img width="668" height="389" alt="image" src="https://github.com/user-attachments/assets/926fa9f7-f3c2-41a6-a290-6a70b48409dd" />
+<img width="398" height="379" alt="image" src="https://github.com/user-attachments/assets/d9ac8ab2-6f77-4b92-abb0-b15c3620934e" />
+
 
 ## Requirements
 
